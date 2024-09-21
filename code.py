@@ -1,0 +1,1 @@
+print("Akhila + entry course") # type: ignore
